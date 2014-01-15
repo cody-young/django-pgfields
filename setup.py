@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='django-pgfields',
-    version='0.1p1',
+    version='0.1p2',
     description='Django model fields for PostgreSQL',
     author='Joel Watts',
     author_email='joel@joelwatts.com',
